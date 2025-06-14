@@ -14,6 +14,8 @@ INSERT INTO employee VALUES ('3','Elon','Musk','Engineer','USA');
 INSERT INTO employee VALUES ('4','Kp','oli','Engineer','canada');
 INSERT INTO employee VALUES ('5','Kp','oli','Engineer','canada');
 INSERT INTO employee VALUES ('6','Kp','oli','Engineer','canada');
+INSERT INTO employee VALUES ('7','Vahab','Shalchian','Engineer','canada');
+
 
 SELECT * FROM employee;
 
